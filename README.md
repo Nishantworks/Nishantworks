@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Nishant Baliyan 👋
 
-<!--
-**Nishantworks/Nishantworks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student  
+💻 Learning Python & Data Science  
+🚀 Interested in AI & ML  
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- SQL
+- Django 
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+🗺️AI Government Scheme Eligibility Mapping System
+🦾Mini Serbvo Robotic Arm
+
+## 📫 Connect with me
+- LinkedIn: (www.linkedin.com/in/nishant-baliyan-3b1372255)  
+- Email: (nishantbaliyan6727@gmail.com)  
